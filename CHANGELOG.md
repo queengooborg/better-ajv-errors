@@ -1,5 +1,11 @@
 # better-ajv-errors
 
+## 1.1.3
+
+### Patch Changes
+
+- 6120105: Remove for...in loop to prevent possible enumeration errors
+
 ## 1.1.2
 
 ### Patch Changes
